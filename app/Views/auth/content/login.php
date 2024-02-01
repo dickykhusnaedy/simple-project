@@ -42,7 +42,7 @@
 						</div>
 					</div>
 				</form>
-				<div class="mt-5 text-muted text-center text-small">
+				<div class="text-muted text-center text-small">
 					Don't have an account? <a href="<?= base_url('auth/register') ?>">Create One</a>
 				</div>
 			</div>
